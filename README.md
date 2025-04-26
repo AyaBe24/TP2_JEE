@@ -10,11 +10,7 @@ Il sert également à pratiquer la configuration d’un projet avec Maven et Spr
 Le projet utilise les dépendances suivantes :
 
 spring-boot-starter-data-jpa : accès aux données avec JPA
-
-spring-boot-starter-web : création d’API REST ou de pages web
-
 mysql-connector-j : connexion à MySQL
-
 lombok : réduction du code répétitif (boilerplate)
 
 🚀 Lancement du projet
